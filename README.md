@@ -1,2 +1,3 @@
 # ejercicio_repositorios
-nose
+salvador sánchez  
+jose andres luna
